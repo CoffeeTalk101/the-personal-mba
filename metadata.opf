@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">b0dfc5e8-6036-4781-ac0f-7ae574194e17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0dfc5e8-6036-4781-ac0f-7ae574194e17</dc:identifier>
+        <dc:title>The Personal MBA</dc:title>
+        <dc:creator opf:file-as="Kaufman, Josh" opf:role="aut">Josh Kaufman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-27T17:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Master the fundamentals, hone your business instincts, and save a fortune in tuition. &lt;br&gt;&lt;br&gt;The consensus is clear: MBA programs are a waste of time and money. Even the elite schools offer outdated assembly-line educations about profit-and-loss statements and PowerPoint presentations. After two years poring over sanitized case studies, students are shuffled off into middle management to find out how business &lt;i&gt;really&lt;/i&gt; works.&lt;br&gt;&lt;br&gt;Josh Kaufman has made a business out of distilling the core principles of business and delivering them quickly and concisely to people at all stages of their careers. His blog has introduced hundreds of thousands of readers to the best business books and most powerful business concepts of all time. In &lt;i&gt;The Personal MBA&lt;/i&gt;, he shares the essentials of sales, marketing, negotiation, strategy, and much more.&lt;br&gt;&lt;br&gt;True leaders aren't made by business schools-they make themselves, seeking out the knowledge, skills, and experiences...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:rights>Copyright © 2010, 2012 Worldly Wisdom Ventures LLC</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
